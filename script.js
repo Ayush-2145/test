@@ -113,5 +113,7 @@ document.getElementById("previous").addEventListener("click", () => { // Fixed t
   masterPlay.classList.remove("fa-play-circle");
   masterPlay.classList.add("fa-pause-circle");
   console.log("successfully");
+  console.log("done");
+  
   
 });
